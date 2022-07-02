@@ -3,7 +3,7 @@ print('HELLO WORLD')
 ```
 ## GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=david-villamil&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=david-villamil&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=david-villamil&show_icons=true&theme=dark&layout=compact" alt="Most Used Languages">
 </p>
 
