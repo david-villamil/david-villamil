@@ -48,3 +48,6 @@ print('HELLO WORLD')
 ![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JetBrains-informational?style=flat&logo=jetbrains&color=blue)
 ![](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&color=blue)
+
+![](http://img.shields.io/badge/Cura-information?style=flat-square&logo=cura&color=red)
+![](http://img.shields.io/badge/Autodesk-information?style=flat-square&logo=fusion&color=red)
